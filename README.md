@@ -10,7 +10,7 @@
 - 💻 Java | Spring Boot | HTML | CSS | JavaScript | MERN Stack | SQL | Azure
 - 🌱 Currently learning: **Low-Level Design**, **System Design**, **DSA**, **Kubernetes**
 - 💬 Ask me about anything Java, GitHub, or Open Source related!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/Laharivanja)
 
 ---
 
