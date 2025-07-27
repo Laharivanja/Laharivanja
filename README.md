@@ -7,8 +7,8 @@
 
 - 🎓 B.Tech CSE Student at Vellore Institute of Technology (2022–2026)
 - 🚀 Contributor in **GirlScript Summer of Code 2025 (GSSoC'25)**
-- 💻 Java | Spring Boot | HTML | CSS | JavaScript | MERN Stack | SQL | Azure
-- 🌱 Currently learning: **Low-Level Design**, **System Design**, **DSA**, **Kubernetes**
+- 💻 Java | HTML | CSS | JavaScript | MERN Stack | SQL | Azure
+- 🌱 Currently learning: **DSA**
 - 💬 Ask me about anything Java, GitHub, or Open Source related!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lahari-vanja)
 
