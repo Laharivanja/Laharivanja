@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lahari</h1>
+<h1 align="center">Hi 👋, I'm Vanja Lahari</h1>
 <h3 align="center">B.Tech CSE @ VIT | Java Enthusiast | GSSoC'25 Contributor | Passionate Developer</h3>
 
 ---
