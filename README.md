@@ -26,22 +26,6 @@
 
 ---
 
-### 🌟 Open Source Contributions
-
-- ✅ [Add MIT License to gssocFAQ-Bot](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/36) – *Merged under GSSoC'25*
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laharivanja&show_icons=true&theme=radical" alt="Laharivanja's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laharivanja&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### Let's Connect 🤝
 
 - [LinkedIn](https://www.linkedin.com/in/lahari-vanja)
